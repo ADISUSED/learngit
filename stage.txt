@@ -1,1 +1,2 @@
 Our target today is to learn How to use stage!
+Why "git diff" didn't have any description?
