@@ -1,2 +1,0 @@
-git rm
-Ha Ha Ha
